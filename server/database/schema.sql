@@ -1,4 +1,3 @@
-CREATE DATABASE IF NOT EXISTS employee_portal;
 
 USE employee_portal;
 
